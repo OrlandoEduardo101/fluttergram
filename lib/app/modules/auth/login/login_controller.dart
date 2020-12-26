@@ -26,6 +26,7 @@ abstract class _LoginControllerBase with Store {
 
   @action
   Future loginWithEmail() async {
+    // ignore: unused_local_variable
     User user = await auth.loginWithEmail(email, password).then((value) {
       Modular.to.pushReplacementNamed('/home');
     }).catchError((onError) {

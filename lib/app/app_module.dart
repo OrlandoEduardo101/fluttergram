@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
-import 'package:fluttergram/app/module/auth/login/login_module.dart';
-import 'package:fluttergram/app/module/auth/register/register_module.dart';
 import 'package:fluttergram/app/splash/splash/splash_page.dart';
+import 'modules/auth/login/login_module.dart';
+import 'modules/auth/register/register_module.dart';
 import 'shared/auth/auth_controller.dart';
 import 'shared/auth/repository/auth_repository.dart';
 import 'app_controller.dart';

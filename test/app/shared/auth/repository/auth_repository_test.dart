@@ -7,6 +7,7 @@ import 'package:fluttergram/app/shared/auth/repository/interfaces/auth_repositor
 class MockClient extends Mock implements Dio {}
 
 void main() {
+  // ignore: unused_local_variable
   IAuthRepository repository;
   // MockClient client;
 
