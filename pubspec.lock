@@ -28,14 +28,22 @@ packages:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.5.0-nullsafety.1"
+=======
+    version: "2.5.0-nullsafety.3"
+>>>>>>> video_2_e_3
   boolean_selector:
     dependency: transitive
     description:
       name: boolean_selector
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.0-nullsafety.1"
+=======
+    version: "2.1.0-nullsafety.3"
+>>>>>>> video_2_e_3
   build:
     dependency: transitive
     description:
@@ -98,14 +106,22 @@ packages:
       name: characters
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.1.0-nullsafety.3"
+=======
+    version: "1.1.0-nullsafety.5"
+>>>>>>> video_2_e_3
   charcode:
     dependency: transitive
     description:
       name: charcode
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.2.0-nullsafety.1"
+=======
+    version: "1.2.0-nullsafety.3"
+>>>>>>> video_2_e_3
   checked_yaml:
     dependency: transitive
     description:
@@ -126,7 +142,11 @@ packages:
       name: clock
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.1.0-nullsafety.1"
+=======
+    version: "1.1.0-nullsafety.3"
+>>>>>>> video_2_e_3
   cloud_firestore:
     dependency: "direct main"
     description:
@@ -161,7 +181,11 @@ packages:
       name: collection
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.15.0-nullsafety.3"
+=======
+    version: "1.15.0-nullsafety.5"
+>>>>>>> video_2_e_3
   convert:
     dependency: transitive
     description:
@@ -203,7 +227,11 @@ packages:
       name: fake_async
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.2.0-nullsafety.1"
+=======
+    version: "1.2.0-nullsafety.3"
+>>>>>>> video_2_e_3
   firebase:
     dependency: transitive
     description:
@@ -358,7 +386,11 @@ packages:
       name: js
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.6.3-nullsafety.1"
+=======
+    version: "0.6.3-nullsafety.3"
+>>>>>>> video_2_e_3
   json_annotation:
     dependency: transitive
     description:
@@ -379,14 +411,22 @@ packages:
       name: matcher
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.12.10-nullsafety.1"
+=======
+    version: "0.12.10-nullsafety.3"
+>>>>>>> video_2_e_3
   meta:
     dependency: transitive
     description:
       name: meta
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.3.0-nullsafety.4"
+=======
+    version: "1.3.0-nullsafety.6"
+>>>>>>> video_2_e_3
   mime:
     dependency: transitive
     description:
@@ -449,7 +489,11 @@ packages:
       name: path
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.8.0-nullsafety.1"
+=======
+    version: "1.8.0-nullsafety.3"
+>>>>>>> video_2_e_3
   pedantic:
     dependency: "direct main"
     description:
@@ -524,21 +568,33 @@ packages:
       name: source_span
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.8.0-nullsafety.2"
+=======
+    version: "1.8.0-nullsafety.4"
+>>>>>>> video_2_e_3
   stack_trace:
     dependency: transitive
     description:
       name: stack_trace
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.10.0-nullsafety.4"
+=======
+    version: "1.10.0-nullsafety.6"
+>>>>>>> video_2_e_3
   stream_channel:
     dependency: transitive
     description:
       name: stream_channel
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.0-nullsafety.1"
+=======
+    version: "2.1.0-nullsafety.3"
+>>>>>>> video_2_e_3
   stream_transform:
     dependency: transitive
     description:
@@ -552,21 +608,33 @@ packages:
       name: string_scanner
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.1.0-nullsafety.1"
+=======
+    version: "1.1.0-nullsafety.3"
+>>>>>>> video_2_e_3
   term_glyph:
     dependency: transitive
     description:
       name: term_glyph
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.2.0-nullsafety.1"
+=======
+    version: "1.2.0-nullsafety.3"
+>>>>>>> video_2_e_3
   test_api:
     dependency: transitive
     description:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.2.19-nullsafety.2"
+=======
+    version: "0.2.19-nullsafety.6"
+>>>>>>> video_2_e_3
   timing:
     dependency: transitive
     description:
@@ -580,14 +648,22 @@ packages:
       name: typed_data
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.3.0-nullsafety.3"
+=======
+    version: "1.3.0-nullsafety.5"
+>>>>>>> video_2_e_3
   vector_math:
     dependency: transitive
     description:
       name: vector_math
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.0-nullsafety.3"
+=======
+    version: "2.1.0-nullsafety.5"
+>>>>>>> video_2_e_3
   watcher:
     dependency: transitive
     description:
@@ -610,5 +686,9 @@ packages:
     source: hosted
     version: "2.2.1"
 sdks:
+<<<<<<< HEAD
   dart: ">=2.10.0-110 <=2.11.0-242.0.dev"
+=======
+  dart: ">=2.12.0-0.0 <3.0.0"
+>>>>>>> video_2_e_3
   flutter: ">=1.12.13+hotfix.5 <2.0.0"
