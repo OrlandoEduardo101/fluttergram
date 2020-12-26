@@ -18,6 +18,7 @@ class _SplashPageState extends State<SplashPage> {
 
   @override
   void initState() {
+    // TODO: implement initState
     super.initState();
     disposer = autorun((_) {
       final auth = Modular.get();
@@ -33,6 +34,7 @@ class _SplashPageState extends State<SplashPage> {
 
   @override
   void dispose() {
+    // TODO: implement dispose
     super.dispose();
     disposer();
   }

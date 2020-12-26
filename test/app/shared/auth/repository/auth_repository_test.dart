@@ -2,11 +2,12 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 import 'package:dio/dio.dart';
 
+import 'package:fluttergram/app/shared/auth/repository/interfaces/auth_repository_interface.dart';
 
 class MockClient extends Mock implements Dio {}
 
 void main() {
-  //IAuthRepository repository;
+  IAuthRepository repository;
   // MockClient client;
 
   setUp(() {
