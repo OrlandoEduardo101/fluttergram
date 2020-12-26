@@ -5,21 +5,21 @@ import 'package:fluttergram/app/app_module.dart';
 
 void main() {
   initModule(AppModule());
-  // AppController app;
+  // SplashController splash;
   //
   setUp(() {
-    //     app = AppModule.to.get<AppController>();
+    //     splash = AppModule.to.get<SplashController>();
   });
 
-  group('AppController Test', () {
+  group('SplashController Test', () {
     //   test("First Test", () {
-    //     expect(app, isInstanceOf<AppController>());
+    //     expect(splash, isInstanceOf<SplashController>());
     //   });
 
     //   test("Set Value", () {
-    //     expect(app.value, equals(0));
-    //     app.increment();
-    //     expect(app.value, equals(1));
+    //     expect(splash.value, equals(0));
+    //     splash.increment();
+    //     expect(splash.value, equals(1));
     //   });
   });
 }

@@ -5,21 +5,21 @@ import 'package:fluttergram/app/app_module.dart';
 
 void main() {
   initModule(AppModule());
-  // AppController app;
+  // AuthController auth;
   //
   setUp(() {
-    //     app = AppModule.to.get<AppController>();
+    //     auth = AppModule.to.get<AuthController>();
   });
 
-  group('AppController Test', () {
+  group('AuthController Test', () {
     //   test("First Test", () {
-    //     expect(app, isInstanceOf<AppController>());
+    //     expect(auth, isInstanceOf<AuthController>());
     //   });
 
     //   test("Set Value", () {
-    //     expect(app.value, equals(0));
-    //     app.increment();
-    //     expect(app.value, equals(1));
+    //     expect(auth.value, equals(0));
+    //     auth.increment();
+    //     expect(auth.value, equals(1));
     //   });
   });
 }
